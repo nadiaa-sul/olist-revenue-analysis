@@ -16,8 +16,8 @@ Revenue analysis on olist e-commerce dataset (PostgreSQL + Power BI + python)
 - Revenue = item price, freight cost is excluded.
   
 **Files:**
-  - `pareto_analysis.sql`: the full postgreSQL query
-  - `pareto_chart.png`: Pareto chart in  Power BI
+- [`pareto_analysis.sql`](pareto_analysis.sql): the full postgreSQL query
+- [`pareto_chart.png`](pareto_chart.png): Pareto chart in  Power BI
 
 ## Price-Volume-Mix (PVM) analysis
 
