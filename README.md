@@ -52,8 +52,10 @@ Months 1-8 only, because 2018 data ends in August (fair comparison)
 New and lost are counted per category and month
 
 **Files:**
-- `price_volume_mix.sql`: the full PostgreSQL query
-- `price_volume_mix.png` :price-volume-mix waterfall chart in Power BI
+- [`price_volume_mix.sql`](price_volume_mix.sql): the full PostgreSQL query
+- [`price_volume_mix.png`](price_volume_mix.png): price-volume-mix waterfall chart in Power BI
+
+![PVM waterfall](price_volume_mix.png)
 
 **Tools**
 
